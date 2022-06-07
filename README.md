@@ -3,7 +3,7 @@
 <p>Desenvolvi esse projeto para estudos de algumas atividades para faculdade. O foco desse estudo era o consumo de API's, tive a oportunidade de fazer o projeto utilizando uma API open source de <a href='https://pokeapi.co/'>Pokemon</a>, dentro do projeto, utilizando como pesquisa o Nome ou ID do Pokemon, na Pokedex, podemos vizualisar informações como altura(m), peso(kg), e o tipo(type) do pokemon pesquisado.</p>
 
 <h2>Link do projeto</h2>
-<a>https://eduardoagusto.github.io/pokemonAPI/</a>
+<a href="https://eduardoagusto.github.io/pokemonAPI/">https://eduardoagusto.github.io/pokemonAPI/</a>
 
 <h2>Imagens do Projeto</h2>
 <p align=center>

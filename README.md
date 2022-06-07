@@ -7,9 +7,6 @@
 
 <h2>Imagens do Projeto</h2>
 <p align=center>
-<img src="img/pokedex.png" width="400px">
-</p>
-<p align=center>
 <img src="img/pokemonApi.gif" width="500px">
 </p>
 
